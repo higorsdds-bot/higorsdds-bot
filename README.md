@@ -60,7 +60,7 @@ public class Higor {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=higorsdds-bot&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -70,7 +70,7 @@ public class Higor {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=higorsdds-bot&theme=tokyonight&row=2&column=4"/>
 
 </div>
 
@@ -80,7 +80,7 @@ public class Higor {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=higorsdds-bot&theme=tokyo-night"/>
 
 </div>
 
@@ -147,7 +147,7 @@ public class Higor {
 
 <img
 width="280"
-src="COLE_AQUI_O_LINK_DO_SEU_GIF"/>
+src="(https://tse1.mm.bing.net/th/id/OIP.6GzxXilaJs-7T7yPW2fDzQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)"/>
 
 </td>
 
@@ -158,7 +158,7 @@ src="COLE_AQUI_O_LINK_DO_SEU_GIF"/>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=9333EA&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=higorsdds-bot&color=9333EA&style=for-the-badge)
 
 </div>
 
