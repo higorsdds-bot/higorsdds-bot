@@ -150,11 +150,11 @@ bem estruturadas e com código limpo.
 <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/SEU_INSTAGRAM">
+<a href="https://instagram.com/higors20">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/SEU_LINK">
+<a href="https://discord.gg/632280243532464177">
 <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
@@ -191,7 +191,7 @@ bem estruturadas e com código limpo.
 
 <img
 width="220"
-src="COLE_AQUI_O_LINK_DO_GIF"/>
+src="(https://tse2.mm.bing.net/th/id/OIP.zzxplN-6Dex7D6ihB_LIkAHaHh?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)"/>
 
 <br>
 
