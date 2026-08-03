@@ -164,7 +164,7 @@ bem estruturadas e com código limpo.
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="higor-silva-8a84053ab/">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
