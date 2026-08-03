@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,30:6D28D9,70:9333EA,100:38BDF8&text=Higor%20Santos&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;ASP.NET+Core+%7C+PHP+%7C+Java+%7C+C%23;Coffee+%E2%98%95+Anime+%F0%9F%8E%8C+Coding+%F0%9F%92%BB"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;ASP.NET+Core+%7C+PHP+%7C+Java+%7C+C%23;Caf%C3%A9+%E2%98%95+Anime+%F0%9F%8E%8C+C%C3%B3digo+%F0%9F%92%BB"/>
 
 <br>
 
@@ -19,11 +19,11 @@
 ```csharp
 public class HigorSantos
 {
-    public string Role => "Full Stack Developer";
-    public string[] Stack => { "C#", "ASP.NET Core", "PHP", "Java", "Python" };
-    public string Database => "SQL Server | MySQL";
-    public string Focus => "Clean Architecture • APIs • Docker";
-    public bool Coffee = true;
+    public string Cargo => "Desenvolvedor Full Stack";
+    public string[] StackPrincipal => { "C#", "ASP.NET Core", "PHP", "Java", "Python" };
+    public string BancoDeDados => "SQL Server | MySQL";
+    public string FocoAtual => "Arquitetura Limpa • APIs • Docker";
+    public bool Cafe = true;
     public bool Anime = true;
 }
 ```
@@ -46,7 +46,7 @@ Desenvolvedor Full Stack focado em construir aplicações escaláveis, bem estru
 <tr>
 <td width="65%" valign="top">
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=higorsdds-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
@@ -55,7 +55,7 @@ Desenvolvedor Full Stack focado em construir aplicações escaláveis, bem estru
 </td>
 <td width="35%" align="center" valign="top">
 
-## 🎌 Anime Mode
+## 🎌 Modo Anime
 
 <!-- Troque o link abaixo pela URL da sua imagem/gif de anime -->
 <img width="220" src="COLOQUE_AQUI_O_LINK_DA_SUA_IMAGEM_DE_ANIME"/>
