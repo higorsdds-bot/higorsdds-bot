@@ -1,7 +1,7 @@
 <h1 align="center">Oiii! Eu sou o Higor 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • ASP.NET Core, PHP, Java, C# e Arduino • Café ☕ + Anime 🎌 + Código 💻
+  Desenvolvedor Full Stack • ASP.NET Core, PHP, Java, C# 
 </p>
 
 <br>
