@@ -1,22 +1,8 @@
 <h1 align="center">Oiii! Eu sou o Higor 👋</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • ASP.NET Core, PHP, Java e C# • Café ☕ + Anime 🎌 + Código 💻
+  Desenvolvedor Full Stack • ASP.NET Core, PHP, Java, C# e Arduino • Café ☕ + Anime 🎌 + Código 💻
 </p>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="72%" valign="middle">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=higorsdds-bot&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0F172A&title_color=EC4899&icon_color=EC4899&text_color=E2E8F0"/>
-    </td>
-    <td width="28%" align="center">
-      <!-- Troque o link abaixo pela URL da sua imagem/gif de anime -->
-      <img width="160" style="border-radius:50%" src="COLOQUE_AQUI_O_LINK_DA_SUA_IMAGEM_DE_ANIME"/>
-    </td>
-  </tr>
-</table>
 
 <br>
 
@@ -34,7 +20,7 @@
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,java,python,javascript,html,css,tailwind,bootstrap,mysql,postgres,git,github,docker,vscode,linux&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,java,python,javascript,html,css,tailwind,bootstrap,mysql,postgres,git,github,docker,vscode,linux,arduino&perline=9"/>
 </div>
 
 <br>
@@ -59,8 +45,8 @@
 <!-- 🐍 ANIMAÇÃO DA COBRINHA COMENDO OS COMMITS -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/higorsdds-bot/higorsdds-bot/output/github-snake-dark.svg?palette=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/higorsdds-bot/higorsdds-bot/output/github-snake.yml" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/higorsdds-bot/higorsdds-bot/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/higorsdds-bot/higorsdds-bot/output/github-snake.svg" />
     <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/higorsdds-bot/higorsdds-bot/output/github-snake.svg" />
   </picture>
 </div>
