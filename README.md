@@ -6,23 +6,8 @@
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <!-- Estatísticas principais (com &v=1 para limpar o cache) -->
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=higorsdds-bot&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged&bg_color=0F172A&title_color=EC4899&icon_color=EC4899&text_color=E2E8F0&v=1"/>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Linguagens mais usadas (com &v=1 para limpar o cache) -->
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorsdds-bot&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0F172A&title_color=EC4899&text_color=E2E8F0&v=1"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <div align="center">
-  <!-- Streak (Atualizado para o novo servidor Demolab) -->
+  <!-- Streak (Mostra suas contribuições totais e ofensiva) -->
   <img src="https://streak-stats.demolab.com/?user=higorsdds-bot&theme=radical&hide_border=true&background=0F172A&ring=EC4899&fire=EC4899&currStreakNum=E2E8F0&currStreakLabel=E2E8F0&sideNums=E2E8F0&sideLabels=E2E8F0&dates=E2E8F0"/>
 </div>
 
