@@ -7,8 +7,8 @@
 <br>
 
 <div align="center">
-  <!-- Streak (Mostra suas contribuições totais e ofensiva) -->
-  <img src="https://streak-stats.demolab.com/?user=higorsdds-bot&theme=radical&hide_border=true&background=0F172A&ring=EC4899&fire=EC4899&currStreakNum=E2E8F0&currStreakLabel=E2E8F0&sideNums=E2E8F0&sideLabels=E2E8F0&dates=E2E8F0"/>
+  <!-- Streak (Com &v=2 no final para forçar a atualização do cache) -->
+  <img src="https://streak-stats.demolab.com/?user=higorsdds-bot&theme=radical&hide_border=true&background=0F172A&ring=EC4899&fire=EC4899&currStreakNum=E2E8F0&currStreakLabel=E2E8F0&sideNums=E2E8F0&sideLabels=E2E8F0&dates=E2E8F0&v=2"/>
 </div>
 
 <br>
