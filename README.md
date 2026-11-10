@@ -1,4 +1,4 @@
-<h1 align="center">Oiii! Eu sou o Higor 👋</h1>
+<h1 align="center">Oi! Eu sou o Higor 👋</h1>
 
 <p align="center">
   Desenvolvedor Full Stack 
