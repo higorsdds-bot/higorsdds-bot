@@ -44,10 +44,3 @@
 
 <br>
 
-<div align="center">
-  
-  *"Código perfeito não existe. Mas todo commit pode ser melhor que o anterior."*
-  
-  ⭐ Se gostou de algum projeto, deixe uma estrela!
-  
-</div>
